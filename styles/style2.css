@@ -1,0 +1,15 @@
+
+.prank{
+  width: 300px;
+  align-items: center;
+  object-position: center;
+  object-fit: cover;
+  margin-left: 400px;
+
+}
+
+.prank-text{
+  text-align: center;
+  font-family: arial;
+  margin: 0;
+}
